@@ -1,0 +1,10 @@
+com.agropalma.app
+color ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_noti_ok
+drawable ic_noti_warn
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme_AgroPalma
+xml file_paths

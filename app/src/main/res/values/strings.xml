@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- aquí viven todos los textos visibles de la app, su diccionario de strings -->
+<resources>
+    <!-- el nombre de la app que aparece en el launcher del teléfono -->
+    <string name="app_name">AgroPalma</string>
+</resources>

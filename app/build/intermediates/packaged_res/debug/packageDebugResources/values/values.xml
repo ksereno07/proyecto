@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1B4332</color>
+    <string name="app_name">AgroPalma</string>
+    <style name="Theme.AgroPalma" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1B4332</item>
+        <item name="android:windowBackground">#F7F4EA</item>
+        <item name="android:colorAccent">#2D6A4F</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
